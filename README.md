@@ -1,2 +1,1 @@
-# AI-Programs
-Connect_Four &amp; TensorFlow
+# connect_4 in python using minmax algorithm
