@@ -1,9 +1,9 @@
-import numpy as np #importing package to matrix of all 0s from NumPy library
-import pygame #importing pygame library
+import numpy as np
+import pygame
 import sys 
 import random
 import math 
-from mcts import mcts #i tried to solve the problem with it but couldn't make it
+from mcts import mcts
 
 BLUE = (0,0,255) #rgb values
 RED = (255,0,0)
