@@ -1,11 +1,4 @@
-################
-## Tarik Salay
-## CS461
-## Brian Hare
-## Connect_4_AI
-################
-
-import numpy as np #importing "numby" package to matrix of all 0s from NumPy library
+import numpy as np #importing package to matrix of all 0s from NumPy library
 import pygame #importing pygame library
 import sys 
 import random
